@@ -1,4 +1,4 @@
-package config;
+package rts.ch.config;
 
 import org.springframework.context.annotation.Configuration;
 import org.springframework.web.WebApplicationInitializer;

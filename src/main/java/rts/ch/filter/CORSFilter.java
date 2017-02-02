@@ -1,4 +1,4 @@
-package filter;
+package rts.ch.filter;
 
 import org.springframework.stereotype.Component;
 

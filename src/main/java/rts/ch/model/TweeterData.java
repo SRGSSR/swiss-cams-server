@@ -1,4 +1,4 @@
-package model;
+package rts.ch.model;
 
 
 import com.fasterxml.jackson.annotation.JsonAutoDetect;
