@@ -1,3 +1,4 @@
 [submodule "swiss-cams"]
 	path = swiss-cams
 	url = https://github.com/SRGSSR/swiss-cams
+	branch = master
